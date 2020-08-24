@@ -17,3 +17,7 @@ A slide show is a presentation of a series of still images on a projection scree
 - Tomcat Apache 8
 - Microsoft SQL Server
 - Java Doc
+
+## Preview
+<p align="center"><img src="https://i.imgur.com/PjkXjpm.png" alt="Image Slideshow"></p>
+<p align="center"><img src="https://i.imgur.com/aaCyWSh.png" alt="Desktop"></p>
